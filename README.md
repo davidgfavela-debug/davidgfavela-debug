@@ -1,4 +1,4 @@
-# Hola, soy David Favela
+# Hola, soy David Garcia Favela
 
 Data Analyst enfocado en transformar datos en decisiones estratégicas. Me especializo en análisis exploratorio, visualización y generación de insights accionables.
 
