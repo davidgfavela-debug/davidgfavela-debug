@@ -15,7 +15,7 @@ Data Analyst enfocado en transformar datos en decisiones estratégicas. Me espec
 Tecnologías:
 Python · Pandas · Matplotlib
 
-[Ver proyecto](https://github.com/davidgfavela-debug/Proyecto-1)
+[Ver proyecto](https://github.com/davidgfavela-debug/Proyecto-5)
 
 ---
 
@@ -28,7 +28,7 @@ Python · Pandas · Matplotlib
 Tecnologías:
 Python · Pandas
 
-[Ver proyecto](https://github.com/TU_USUARIO/proyecto-limpieza-datos)
+[Ver proyecto](https://github.com/davidgfavela-debug/Proyecto-1)
 
 ---
 
@@ -41,7 +41,7 @@ Python · Pandas
 Tecnologías:
 Python · Seaborn · Matplotlib
 
-[Ver proyecto](https://github.com/TU_USUARIO/proyecto-eda)
+[Ver proyecto](https://github.com/davidgfavela-debug/Proyecto-4)
 
 ---
 
