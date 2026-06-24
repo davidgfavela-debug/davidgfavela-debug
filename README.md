@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hola, soy David Garcia Favela
 
-<!--
-**davidgfavela-debug/davidgfavela-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst | SQL | Python | Power BI
 
-Here are some ideas to get you started:
+## Sobre mí
+Me enfoco en análisis de datos, visualización y toma de decisiones basada en datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos
+
+### 1. Análisis de Ventas
+- Herramientas: Python, Pandas
+- Descripción: Limpieza y análisis de datos de ventas
+- Resultado: Insights clave sobre comportamiento de clientes
+
+### 2. Dashboard en Power BI
+- Visualización interactiva de KPIs
+
+## Skills
+- SQL
+- Python
+- Excel
+- Power BI
+
+## Contacto
+- LinkedIn: (pon tu link)
