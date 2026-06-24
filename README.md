@@ -15,7 +15,7 @@ Data Analyst enfocado en transformar datos en decisiones estratégicas. Me espec
 Tecnologías:
 Python · Pandas · Matplotlib
 
-[Ver proyecto](https://github.com/TU_USUARIO/proyecto-movilidad-urbana)
+[Ver proyecto](https://github.com/davidgfavela-debug/Proyecto-1)
 
 ---
 
